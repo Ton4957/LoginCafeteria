@@ -147,7 +147,7 @@
             // URL de tu Google Apps Script Web App (¡DEBES REEMPLAZAR ESTA URL!)
             // Esta URL será la que obtengas al desplegar tu script de Google Apps Script
             // como una aplicación web.
-            const appsScriptWebAppUrl = 'https://script.google.com/macros/s/AKfycbyLHNeYq7yWl_YIQjSRYaC0oweAKlBR144PV3aqlKMfHk9Jksr8H83qvxx-JwYCU5bb/exec'; // ¡REEMPLAZA ESTO CON TU URL REAL DE APPS SCRIPT!
+            const appsScriptWebAppUrl = 'https://www.appsheet.com/start/4a65df57-020b-481e-9732-68c8a87baba1'; // ¡REEMPLAZA ESTO CON TU URL REAL DE APPS SCRIPT!
 
             try {
                 // Realiza una solicitud POST al Google Apps Script
@@ -185,3 +185,4 @@
     </script>
 </body>
 </html>
+
